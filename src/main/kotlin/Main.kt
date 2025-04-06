@@ -1,5 +1,7 @@
 fun main() {
 
+    val text = "0..0.0"
+    println(isValidIPv4(text))
 
 }
 
